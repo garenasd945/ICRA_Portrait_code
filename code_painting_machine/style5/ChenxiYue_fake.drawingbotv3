@@ -1,0 +1,546 @@
+{
+  "presetType": "project",
+  "version": "2.0.0",
+  "presetSubType": "User",
+  "presetName": "New Preset",
+  "userCreated": true,
+  "data": {
+    "name": "Sketch Lines",
+    "imagePath": "C:\\Users\\lenovo\\Desktop\\ICRA\\ICRA_Portrait_code\\code_painting_machine\\style5\\ChenxiYue_fake.png",
+    "notes": "",
+    "timeStamp": "2024-09-14 18:17:41",
+    "thumbnailID": "",
+    "rating": 0.0,
+    "settings": {
+      "batch_processing": {
+        "嫞": false,
+        "吕": [
+          {
+            "翦": "image_default",
+            "饦": ".png",
+            "吕": true,
+            "鍎": false,
+            "嫞": false
+          }
+        ]
+      },
+      "drawingState": {},
+      "image_filters": {
+        "presetType": "image_filters",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "filters": []
+        }
+      },
+      "ui_settings": {
+        "presetType": "ui_settings",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settings": {
+            "backgroundColor": "-723724",
+            "blendMode": "Normal",
+            "canvasColor": "-1"
+          }
+        }
+      },
+      "cmyk_settings": {
+        "presetType": "cmyk_settings",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settings": {
+            "Key Multiplier": "0.75",
+            "Magenta Multiplier": "1.0",
+            "Yellow Multiplier": "1.0",
+            "Cyan Multiplier": "1.0"
+          }
+        }
+      },
+      "colour_match": {
+        "presetType": "colour_match",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settings": {
+            "Brightness Multiplier": "2.0",
+            "Pen Limit": "0",
+            "Colour Accuracy": "95.0",
+            "Use Canvas Colour": "true",
+            "Smooth Distribution": "true"
+          }
+        }
+      },
+      "drawing_sets": {
+        "drawingSets": [
+          {
+            "type": "Copic",
+            "name": "Dark Greys",
+            "pens": [
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "100 Black",
+                  "argb": -13554901,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "0",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "100 Black",
+                "argb": "-13554901",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              },
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "N10 Neutral Gray",
+                  "argb": -13553872,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "1",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "N10 Neutral Gray",
+                "argb": "-13553872",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              },
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "N8 Neutral Gray",
+                  "argb": -10263450,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "2",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "N8 Neutral Gray",
+                "argb": "-10263450",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              },
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "N6 Neutral Gray",
+                  "argb": -7039591,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "3",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "N6 Neutral Gray",
+                "argb": "-7039591",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              },
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "N4 Neutral Gray",
+                  "argb": -4407871,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "4",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "N4 Neutral Gray",
+                "argb": "-4407871",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              },
+              {
+                "source": {
+                  "type": "Copic Original",
+                  "name": "N2 Neutral Gray",
+                  "argb": -2434083,
+                  "distributionWeight": 100,
+                  "strokeSize": 1.0,
+                  "isEnabled": true
+                },
+                "penNumber": "5",
+                "isEnabled": "true",
+                "type": "Copic Original",
+                "name": "N2 Neutral Gray",
+                "argb": "-2434083",
+                "distributionWeight": "100",
+                "strokeSize": "1.0"
+              }
+            ],
+            "distributionOrder": "Darkest first (Default)",
+            "distributionType": "Even weighted",
+            "colourSeperator": "Default"
+          }
+        ],
+        "activeSet": 0
+      },
+      "pfm_settings": {
+        "presetType": "pfm_settings",
+        "version": "1.1",
+        "presetSubType": "Sketch Lines PFM",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settingList": {
+            "Shading Delta Angle": "180.0",
+            "Shading Threshold": "50.0",
+            "Start Angle Min": "-72",
+            "Erase Min": "50",
+            "Distortion": "0.0",
+            "Edge Power": "0.0",
+            "Erase Radius Max": "1.0",
+            "Sobel Power": "0.0",
+            "Should Lift Pen": "true",
+            "Line Max Length": "40",
+            "Line Max Limit": "-1",
+            "Drawing Delta Angle": "360.0",
+            "Luminance Power": "100.0",
+            "Start Angle Max": "-52",
+            "Angularity": "0.0",
+            "Random Seed": "0",
+            "Unlimited Tests": "false",
+            "Squiggle Max Deviation": "25.0",
+            "Plotting Resolution": "1.0",
+            "Erase Radius Min": "1.0",
+            "Shading": "false",
+            "Squiggle Max Length": "500",
+            "Directionality": "0.0",
+            "Angle Tests": "20",
+            "Tone": "50.0",
+            "Line Min Length": "2",
+            "Erase Max": "125",
+            "Squiggle Min Length": "25",
+            "Line Density": "75.0"
+          }
+        }
+      },
+      "image_settings": {
+        "imageRotation": "R0",
+        "imageFlipHorizontal": false,
+        "imageFlipVertical": false,
+        "cropStartX": 0.0,
+        "cropStartY": 0.0,
+        "cropEndX": 256.0,
+        "cropEndY": 256.0
+      },
+      "versions": {
+        "versions": []
+      },
+      "masking_settings": {
+        "presetType": "masking_settings",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settings": {
+            "masks": [],
+            "enableMasking": "true"
+          }
+        }
+      },
+      "ui_state": {
+        "nodes": [
+          {
+            "id": "splitPane",
+            "properties": {
+              "SplitPane:dividers": {
+                "positions": [
+                  0.24479166666666666,
+                  0.9982638888888888
+                ]
+              }
+            }
+          },
+          {
+            "id": "titledPaneDrawingArea",
+            "properties": {
+              "Node:position": {
+                "childIndex": 0,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": false
+            }
+          },
+          {
+            "id": "titledPaneImageProcessing",
+            "properties": {
+              "Node:position": {
+                "childIndex": 1,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": false
+            }
+          },
+          {
+            "id": "titledPanePathFindingControls",
+            "properties": {
+              "Node:position": {
+                "childIndex": 2,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": true
+            }
+          },
+          {
+            "id": "titledPanePenSettings",
+            "properties": {
+              "Node:position": {
+                "childIndex": 3,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": true
+            }
+          },
+          {
+            "id": "titledPaneVersionControl",
+            "properties": {
+              "Node:position": {
+                "childIndex": 6,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": false
+            }
+          },
+          {
+            "id": "titledPaneBatchProcessing",
+            "properties": {
+              "Node:position": {
+                "childIndex": 4,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": false
+            }
+          },
+          {
+            "id": "titledPaneMaskSettings",
+            "properties": {
+              "Node:position": {
+                "childIndex": 5,
+                "parentID": "vBoxSettingsLeft"
+              },
+              "TitledPane:expanded": true
+            }
+          },
+          {
+            "id": "tableViewImageFilters",
+            "properties": {}
+          },
+          {
+            "id": "columnEnableImageFilter",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "columnImageFilterType",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "columnImageFilterSettings",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penEnableColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penTypeColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penNameColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penColourColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penStrokeColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penPercentageColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penWeightColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "penLinesColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetNameColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetPensColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetDistributionTypeColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetDistributionOrderColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetColourSeperatorColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "drawingSetPercentageColumn",
+            "properties": {
+              "TableColumnBase:visible": false
+            }
+          },
+          {
+            "id": "versionThumbColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "versionNameColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "versionRatingColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "versionDateColumn",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "versionNotesColumn",
+            "properties": {
+              "TableColumnBase:visible": false
+            }
+          },
+          {
+            "id": "versionPFMColumn",
+            "properties": {
+              "TableColumnBase:visible": false
+            }
+          },
+          {
+            "id": "versionFileColumn",
+            "properties": {
+              "TableColumnBase:visible": false
+            }
+          },
+          {
+            "id": "tableColumnFileFormat",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "tableColumnPerDrawing",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "tableColumnPerPen",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          },
+          {
+            "id": "tableColumnPerGroup",
+            "properties": {
+              "TableColumnBase:visible": true
+            }
+          }
+        ]
+      },
+      "drawing_area": {
+        "presetType": "drawing_area",
+        "version": "1.1",
+        "presetSubType": "User",
+        "presetName": "New Preset",
+        "userCreated": true,
+        "data": {
+          "settings": {
+            "drawingAreaPaddingLeft": "0.0",
+            "drawingAreaPaddingBottom": "0.0",
+            "inputUnits": "mm",
+            "drawingAreaGang": "true",
+            "drawingAreaHeight": "170.0",
+            "drawingAreaPaddingRight": "0.0",
+            "rescaleMode": "Normal Quality",
+            "drawingAreaPaddingTop": "0.0",
+            "useOriginalSizing": "false",
+            "drawingAreaWidth": "170.0",
+            "scalingMode": "Crop to fit",
+            "targetPenWidth": "0.3"
+          }
+        }
+      }
+    }
+  }
+}
